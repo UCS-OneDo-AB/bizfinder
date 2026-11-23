@@ -37,7 +37,7 @@
         ],
     },
     'images': ['static/description/bizfinder_results.png'],
-    'license': 'LGPL-3',
+    'license': 'OPL-1',
     'application': True,
     'installable': True,
 }
